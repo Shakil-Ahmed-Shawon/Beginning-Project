@@ -10,5 +10,7 @@ p{
     padding: 10px 15px;
     position: absolute;
     left: 25%;
+    outline: 3px solid blue;
+    outline-radius: 10px;
 
 }
